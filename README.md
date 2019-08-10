@@ -51,3 +51,6 @@ Após sua implementação, para gerar tickets devera passar os dados do formulá
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_09.png" width="280"/>
   
 </section>
+
+##### Desenvolvido por: Nathanael Cruz Alves
+###### Programador Back-End
