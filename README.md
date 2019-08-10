@@ -38,12 +38,3 @@ O sistema utiliza o código de barra ITF-14 na geração devido ao formato envia
 Após sua implementação, para gerar tickets devera passar os dados do formulário, sendo os campos posição, cor da borda e cor do código opcionais sendo sempre setados para um padrão de cores definido na criação do código. Após gerar, será disponibilizado as páginas de tickets com a matriz da quantidade de tickets por página na pasta imagens/tickets. Assim que forem distribuidos os tickets gerados, na área de validação basta digitar o código gerado, ou com um leitor óptico, direcionando para ao campo code do formulário, assim ativando-o.
 
 #### Telas
-![Screen_01](https://user-images.githubusercontent.com/40793400/62825797-cadd7180-bb87-11e9-8a0c-a21db79d9729.png =250x250)
-![Screen_02](https://user-images.githubusercontent.com/40793400/62825798-cb760800-bb87-11e9-8985-05d821d3f3f6.png | width=200)
-![Screen_03](https://user-images.githubusercontent.com/40793400/62825799-cb760800-bb87-11e9-9e29-ec9891634aab.png | width=200)
-![Screen_04](https://user-images.githubusercontent.com/40793400/62825800-cc0e9e80-bb87-11e9-9b9e-9919049315be.png | width=200)
-![Screen_05](https://user-images.githubusercontent.com/40793400/62825801-cd3fcb80-bb87-11e9-9bea-cb1367acff0b.png | width=200)
-![Screen_06](https://user-images.githubusercontent.com/40793400/62825802-ce70f880-bb87-11e9-837f-beb7fbaeaf7f.png | width=200)
-![Screen_07](https://user-images.githubusercontent.com/40793400/62825803-ce70f880-bb87-11e9-8160-12d660faa5ba.png | width=200)
-![Screen_08](https://user-images.githubusercontent.com/40793400/62825805-cf098f00-bb87-11e9-8087-af6e3d77b1b8.png | width=200)
-![Screen_09](https://user-images.githubusercontent.com/40793400/62825806-cfa22580-bb87-11e9-8f27-a9e3144b86db.png | width=200)
