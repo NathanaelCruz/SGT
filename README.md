@@ -45,5 +45,9 @@ Após sua implementação, para gerar tickets devera passar os dados do formulá
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_03.png" width="280"/>
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_04.png" width="280"/>
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_05.png" width="350"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_06.png" width="350"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_07.png" width="350"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_08.png" width="350"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_09.png" width="350"/>
   
 </section>
