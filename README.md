@@ -43,5 +43,8 @@ Após sua implementação, para gerar tickets devera passar os dados do formulá
   Info over here
 
   ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png)
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png" width="300"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_02.png" width="300"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_03.png" width="300"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_04.png" width="300"/>
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_05.png" width="300"/>
 </section>
