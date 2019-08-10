@@ -39,8 +39,8 @@ Após sua implementação, para gerar tickets devera passar os dados do formulá
 
 #### Telas
 <section data-markdown>
-
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png" width="800"/>
+  
+  ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png)
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_02.png" width="350" style="float: left;"/>
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_03.png" width="350" style="float: left;"/>
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_04.png" width="300"/>
