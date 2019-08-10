@@ -53,4 +53,3 @@ Após sua implementação, para gerar tickets devera passar os dados do formulá
 </section>
 
 ##### Desenvolvido por: Nathanael Cruz Alves
-###### Programador Back-End
