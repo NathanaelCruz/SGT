@@ -19,7 +19,7 @@ O SGT é um sistema rest que tem como objetivo gerar uma matriz de tickets com c
 
 ### Frameworks
 
-2. Bootstrap 4.0
+1. Bootstrap 4.0
 2. Slim Framework: Rest
 
 ### API
