@@ -38,12 +38,10 @@ O sistema utiliza o código de barra ITF-14 na geração devido ao formato envia
 Após sua implementação, para gerar tickets devera passar os dados do formulário, sendo os campos posição, cor da borda e cor do código opcionais sendo sempre setados para um padrão de cores definido na criação do código. Após gerar, será disponibilizado as páginas de tickets com a matriz da quantidade de tickets por página na pasta imagens/tickets. Assim que forem distribuidos os tickets gerados, na área de validação basta digitar o código gerado, ou com um leitor óptico, direcionando para ao campo code do formulário, assim ativando-o.
 
 #### Telas
-![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png)
 <section data-markdown>
-                    ## Some Header
 
-                        Info over here
+  Info over here
 
-                    ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png)
-                    <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png" width="300"/>
-                </section>
+  ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png)
+  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/Screen_01.png" width="300"/>
+</section>
