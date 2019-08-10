@@ -39,3 +39,4 @@ Após sua implementação, para gerar tickets devera passar os dados do formulá
 
 #### Telas
 
+![Screen_01](https://user-images.githubusercontent.com/40793400/62825744-e72cde80-bb86-11e9-9f2a-6daf773021c6.png)
