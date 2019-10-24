@@ -1,5 +1,10 @@
 # SGT - Sistema Gerador de Tickets
 
+![GitHub](https://img.shields.io/github/license/NathanaelCruz/SGT)
+![GitHub top language](https://img.shields.io/github/languages/top/NathanaelCruz/SGT)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NathanaelCruz/SGT)
+![GitHub All Releases](https://img.shields.io/github/downloads/NathanaelCruz/SGT/total)
+
 ### Descrição
 O SGT é um sistema rest que tem como objetivo gerar uma matriz de tickets com código de barra para serem impressos. Além da opção de gerar, há a seção de validação, que o usuário pode validar o ticket apresentado , afim de verificar se está ok para ser utilizado.
 
